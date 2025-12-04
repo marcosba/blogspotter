@@ -1,0 +1,5 @@
+{
+  "name": "BlogSpotter - Curator AI",
+  "description": "A comprehensive tool to curate, classify, and track Blogspot blogs using Gemini AI for automatic categorization and sentiment analysis. Features a client-side crawler and RSS reader.",
+  "requestFramePermissions": []
+}
